@@ -119,7 +119,7 @@
 
 ---
 
-## 🧠 Coding Practice (Anisha_ranjan07)
+## 🧠 Coding Practice (Anisha_ranjan07) 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Anisha_ranjan07?theme=dark&font=Comic%20Neue&ext=contest"/>
