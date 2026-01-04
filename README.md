@@ -1,4 +1,3 @@
-<!-- Aesthetic Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Anisha%20Ranjan&fontSize=40&fontColor=ffffff"/>
 </p>
