@@ -1,4 +1,4 @@
-
+````md
 # 🖤 Anisha Ranjan
 
 <p align="center">
@@ -8,6 +8,7 @@
 
 ```txt
 dark mode • late nights • clean logic
+````
 
 💻 **BTech Computer Science Engineering | 2nd Year**
 🌙 Night-owl coder | ☕ Coffee-driven
@@ -84,15 +85,3 @@ while(!dreamAchieved){
 
 ```
 ```
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-</p>
-
-🕶️ **Code in silence.**
-🌑 **Let your GitHub speak.**
-
-```
-```
-
