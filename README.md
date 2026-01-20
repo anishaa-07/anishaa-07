@@ -1,4 +1,3 @@
-````md
 # 🖤 Anisha Ranjan
 
 <p align="center">
@@ -6,14 +5,13 @@
   <img src="https://source.unsplash.com/900x300/?coding,dark,technology" />
 </p>
 
-```txt
-dark mode • late nights • clean logic
-````
+<p align="center">
+  <i>dark mode • late nights • clean logic</i>
+</p>
 
-💻 **BTech Computer Science Engineering | 2nd Year**
-🌙 Night-owl coder | ☕ Coffee-driven
+💻 **BTech Computer Science Engineering | 2nd Year**  
+🌙 Night-owl coder | ☕ Coffee-driven  
 ⚡ Turning confusion into clarity, one line at a time
-
 ---
 
 ## 🛠 Tech Stack
