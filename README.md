@@ -1,85 +1,92 @@
-# 🖤 Anisha Ranjan
+<h1 align="center">🔥 ANISHA RANJAN 🔥</h1>
 
 <p align="center">
-  <!-- Random dark tech image on every refresh -->
-  <img src="https://source.unsplash.com/900x300/?coding,dark,technology" />
+  <b>Full Stack Developer | DSA Warrior | Tech Builder</b><br/>
+  <i>I build. I break. I rebuild better.</i>
 </p>
 
 <p align="center">
-  <i>dark mode • late nights • clean logic</i>
-</p>
-
-💻 **BTech Computer Science Engineering | 2nd Year**  
-🌙 Night-owl coder | ☕ Coffee-driven  
-⚡ Turning confusion into clarity, one line at a time
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,sql&theme=dark" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## 🌑 Currently Grinding
+## 👑 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-</p>
-
-* DSA in **Java**
-* Problem-solving on **LeetCode**
-* Building aesthetic & meaningful projects
-* Preparing for technical assessments
+- 💻 Full Stack Developer
+- 🧠 Strong in **Data Structures & Algorithms**
+- 🚀 Building real-world, scalable projects
+- 🔥 Consistency > Motivation
+- 🏆 Code is my comfort zone
 
 ---
 
-## 🧠 Coding Profiles
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,linux" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishaa-07&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishaa-07E&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishaa-07&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishaa-07&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧠 LeetCode Corner
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Anisha_ranjan07?theme=dark&font=Montserrat&ext=contest" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anisha-ranjan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anisha%20Ranjan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-0f0f0f?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+
+  <a href="https://leetcode.com/Anisha_ranjan07/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
-## ⚙️ Daily Loop
+## 🔥 Signature Quote
+
+> **“I don’t wait for opportunities. I code them.”**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 </p>
-
-```java
-while(!dreamAchieved){
-    learn();
-    code();
-    debug();
-}
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250"/>
-</p>
-
-🕶️ **Code quietly.**
-🌑 **Let consistency speak.**
-
-```
-```
