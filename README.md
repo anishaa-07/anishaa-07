@@ -1,11 +1,11 @@
 <h1 align="center">Anisha Ranjan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%22Full+Stack+Developer%22;%22DSA+Problem+Solver%22;%22Building+Impactful+Products%22&font=Inter&center=true&width=520&height=40&color=white&vCenter=true&pause=1200&weight=700" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%22Full+Stack+Developer%22;%22DSA+Problem+Solver%22;%22Building+Impactful+Products%22&font=Inter&center=true&width=520&height=40&color=1F1F1F&vCenter=true&pause=1200&weight=700" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NwNnNtb2RmbWttbGNjNGpndG9yaWZybnU2c2h4ZHVjMG5sMTRtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
@@ -25,17 +25,16 @@
 - Consistent learner, project-driven mindset
 - Calm execution. Confident results.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z6NmVndTFmd2JpN25ib3I5OTk4cmlnZml2Y3M4Y2RzMm1qaHRlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTfx2qLszoacZRS/giphy.gif" width="220"/>
+</p>
+
 ---
 
 ## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -52,10 +51,14 @@
 
 ---
 
-## 🏆 Trophies
+## Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishaa-07&theme=gruvbox&no-frame=true&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishaa-07&theme=minimal&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlmdXR4NmpyOXB6ZDNmNnR0d2l2Y2JxNHY4eTF5cW4zZjJtY2d1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="220"/>
 </p>
 
 ---
