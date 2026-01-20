@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NwNnNtb2RmbWttbGNjNGpndG9yaWZybnU2c2h4ZHVjMG5sMTRtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,8 @@
 - Focused on **clean architecture & scalable systems**
 - Consistent learner, project-driven mindset
 - Calm execution. Confident results.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z6NmVndTFmd2JpN25ib3I5OTk4cmlnZml2Y3M4Y2RzMm1qaHRlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTfx2qLszoacZRS/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/3o6ZsYm5z6vYwKz4Jy/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlmdXR4NmpyOXB6ZDNmNnR0d2l2Y2JxNHY4eTF5cW4zZjJtY2d1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220"/>
 </p>
 
 ---
