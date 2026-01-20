@@ -1,11 +1,13 @@
 <h1 align="center">Anisha Ranjan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DSA+Problem+Solver;Building+Impactful+Products&font=Inter&center=true&width=520&height=40&color=7A7A7A&vCenter=true&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;DSA+Problem+Solver;Building+Impactful+Products&font=Inter&center=true&width=520&height=40&color=9B7EDC&vCenter=true&pause=1200" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
@@ -43,6 +45,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishaa-07&theme=graywhite&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishaa-07&theme=flat&no-frame=true&row=1&column=5"/>
 </p>
 
 ---
