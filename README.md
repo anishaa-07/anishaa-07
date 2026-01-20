@@ -1,11 +1,11 @@
 <h1 align="center">👾Anisha Ranjan👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%22Full+Stack+Developer%22;%22DSA+Problem+Solver%22;%22Building+Impactful+Products%22&font=Inter&center=true&width=520&height=40&color=White&vCenter=true&pause=1200&weight=700" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%22Full+Stack+Developer%22;%22DSA+Problem+Solver%22;%22Building+Impactful+Products%22&font=Inter&center=true&width=520&height=40&color=White&vCenter=true&pause=1200&weight=500" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
