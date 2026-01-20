@@ -1,19 +1,17 @@
-````md
+
 # 🖤 Anisha Ranjan
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <!-- Random dark tech image on every refresh -->
+  <img src="https://source.unsplash.com/900x300/?coding,dark,technology" />
 </p>
 
 ```txt
-dark mode • deep focus • clean logic
-````
+dark mode • late nights • clean logic
 
 💻 **BTech Computer Science Engineering | 2nd Year**
-🌙 Night owl coder | Debugging is my cardio
-☕ Coffee-powered & consistency-driven
-
-> “Code. Break. Learn. Repeat.”
+🌙 Night-owl coder | ☕ Coffee-driven
+⚡ Turning confusion into clarity, one line at a time
 
 ---
 
@@ -25,16 +23,16 @@ dark mode • deep focus • clean logic
 
 ---
 
-## 📚 Currently Working On
+## 🌑 Currently Grinding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
-* 📌 **DSA in Java**
-* 🧠 Strengthening problem-solving
-* 🧪 Writing clean & readable code
-* 🚀 Preparing for coding assessments
+* DSA in **Java**
+* Problem-solving on **LeetCode**
+* Building aesthetic & meaningful projects
+* Preparing for technical assessments
 
 ---
 
@@ -42,23 +40,23 @@ dark mode • deep focus • clean logic
 
 <p align="center">
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-121212?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/LeetCode-0f0f0f?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
 </p>
 
 ---
 
-## ⚙️ Life as a Coder
+## ⚙️ Daily Loop
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
 </p>
 
 ```java
-while(!successful){
+while(!dreamAchieved){
     learn();
     code();
     debug();
@@ -66,6 +64,27 @@ while(!successful){
 ```
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250"/>
+</p>
+
+🕶️ **Code quietly.**
+🌑 **Let consistency speak.**
+
+```
+```
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
