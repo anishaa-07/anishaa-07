@@ -25,7 +25,7 @@
 - Consistent learner, project-driven mindset
 - Calm execution. Confident results.
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5z6vYwKz4Jy/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z6NmVndTFmd2JpN25ib3I5OTk4cmlnZml2Y3M4Y2RzMm1qaHRlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTfx2qLszoacZRS/giphy.gif"width="220"/>
 </p>
 
 ---
