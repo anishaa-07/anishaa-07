@@ -9,7 +9,7 @@
 <h2 align="center">💖 Full Stack Developer 💖</h2>
 
 <p align="center">
-🌸 Java • Python • C • Web Development • UI/UX • SQL 🌸
+🌸 Java • Python • C • Web Development • UI/UX • SQL 🌸 
 </p>
 
 <p align="center">
@@ -30,12 +30,8 @@
 
 ---
 
-## 🌸 Cute Coder Vibes
-
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
 </p>
 
 ---
