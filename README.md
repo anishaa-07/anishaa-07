@@ -1,10 +1,4 @@
-<h1 align="center">ʜᴇʏ 👋!<br> ɪ'ᴍ ᴀɴɪꜱʜᴀ .<br>ɴᴏᴛ ᴀɴ ᴇxᴘᴇʀᴛ - ᴊᴜꜱᴛ ʀᴇʟᴇɴᴛʟᴇꜱꜱʟʏ ɪᴍᴘʀᴏᴠɪɴɢ🎧</h1>
-
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://raw.githubusercontent.com/anishaa-07/anishaa-07/main/banner.png" />
-</p>" />
-</p>
+<h1 align="center">ʜᴇʏ 👋!<br> ɪ'ᴍ ᴀɴɪꜱʜᴀ .<br>ɴᴏᴛ ᴀɴ ᴇxᴘᴇʀᴛ - ᴊᴜꜱᴛ ʀᴇʟᴇɴᴛʟᴇꜱꜱʟʏ ɪᴍᴘʀᴏᴠɪɴɢ🎧</>
 ###
 
 <div align="center">
