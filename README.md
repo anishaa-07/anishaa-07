@@ -1,114 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Anisha%20Ranjan&fontSize=40&fontColor=ffffff"/>
-</p>
+<h2 align="left">ʜᴇʏ 👋!<br> ɪ'ᴍ ᴀɴɪꜱʜᴀ .<br>ɴᴏᴛ ᴀɴ ᴇxᴘᴇʀᴛ - ᴊᴜꜱᴛ ʀᴇʟᴇɴᴛʟᴇꜱꜱʟʏ ɪᴍᴘʀᴏᴠɪɴɢ🎧</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250"/> 
-</p>
+###
 
-<h2 align="center">💖 Full Stack Developer 💖</h2>
+<img align="right" height="180" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9656.jpg"  />
 
-<p align="center">
-🌸 Java • Python • C • Web Development • UI/UX • SQL 🌸 
-</p>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=22&pause=1000&color=FF69B4&center=true&width=550&lines=Code+with+Confidence+%F0%9F%92%BB;Design+with+Creativity+%F0%9F%8E%A8;Dream+Build+Repeat+%E2%9C%A8"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
----
+###
 
-## 🌷 About Me
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+</div>
 
-🎀 Passionate **Full Stack Developer**   
-🎀 Love **coding, UI design & problem solving**  
-🎀 Turning ideas into reality with **code + creativity**
+###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
-</p>
+<div align="left">
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150"/>
-</p>
+<div align="left">
+</div>
 
----
+###
 
-## 💕 Tech Stack
+<div align="left">
+</div>
 
-### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+###
 
-### 🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs"/>
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode"/>
-
----
-
-## 🌱 Currently Learning
-
-🌷 Advanced **Java & DSA**  
-🌷 **React.js** & component-based UI  
-🌷 **Backend concepts & APIs**  
-🌷 Improving **UI/UX & animations**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-✨ Solved multiple **LeetCode problems**  
-✨ Built **real-world web projects**  
-✨ Strong foundation in **frontend + backend basics**  
-✨ Passionate about continuous learning
-
----
-
-## 🎀 Featured Projects
-
-🌸 **AI Resume Builder**  
-✨ Smart resume creation with clean UI  
-💻 HTML • CSS • JavaScript  
-
-🌸 **Language Translator App**  
-✨ Multi-language translation (future AI features)  
-💻 JavaScript • APIs  
-
-🌸 **Mini Games Collection**  
-✨ Fun & cute browser-based games  
-💻 HTML • CSS • JavaScript  
-
----
-
-## 🎮 Mini Games
-
-### 💖 Pink Calculator  
-✨ Aesthetic calculator with girly UI  
-
-### 🎀 Tic Tac Toe Game  
-✨ Classic game with cute UI & smooth interaction  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="180"/>
-</p>
-
----
-
-<p align="center">
-💖 *“Code with passion, design with heart.”* 💖  
-</p>
-
-" 𝑬𝑹𝑹𝑶𝑹 𝑭𝑹𝑬𝑬 𝑰𝑺 𝑩𝑶𝑹𝑰𝑵𝑮."
-
-</body>
-</html>
+❝​🇪​​🇷​​🇷​​🇴​​🇷​ ​🇫​​🇷​​🇪​​🇪​ ​🇮​​🇸​ ​🇧​​🇴​​🇷​​🇮​​🇳​​🇬​❝
