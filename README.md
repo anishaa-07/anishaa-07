@@ -2,7 +2,16 @@
 
 ###
 
-<img align="right" height="180" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9656.jpg"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishaa-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishaa-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="211" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9656.jpg"  />
 
 ###
 
@@ -46,7 +55,21 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anishaa-07/anishaa-07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anishaa-07/anishaa-07/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishaa-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishaa-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -61,4 +84,8 @@
 
 ###
 
+<div align="left">
+</div>
+
+###
 ❝​🇪​​🇷​​🇷​​🇴​​🇷​ ​🇫​​🇷​​🇪​​🇪​ ​🇮​​🇸​ ​🇧​​🇴​​🇷​​🇮​​🇳​​🇬​❝
