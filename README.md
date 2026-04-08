@@ -12,10 +12,6 @@
 - **Frameworks:** `React`, `Vite`
 - **Tools:** `Git`, `GitHub`, `VS Code`, `Netlify`
 
-### 🌟 Current Focus
-- building **[Brawl.AI](https://github.com/anishaa-07/brawl.AI)** (A premium esports & battle arena portal)
-- mastering **Frontend Architectures** & **Glassmorphism**
-
 ---
 
 ### 📊 GitHub Stats
