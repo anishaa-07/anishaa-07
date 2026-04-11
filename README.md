@@ -1,4 +1,4 @@
-# ʜᴇʏ 👋 ɪ'ᴍ ᴀɴɪꜱʜᴀ ʀᴀɴᴊᴀɴ
+# ʜᴇʏ 👋 ɪ'ᴍ ANISHA RANJAN
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5ZTlkOThmNjIyZTlkOThmNjIyZTlkOThmNjIyZTlkOThmNjIyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIY7Yc5q/giphy.gif" width="200" />
 
