@@ -30,5 +30,5 @@
 
 ## 🔗 Connect with Me
 
-* 💼 LinkedIn:[ (add link)](https://www.linkedin.com/in/anisha-ranjan-57327b31a/)
+* 💼 LinkedIn:(https://www.linkedin.com/in/anisha-ranjan-57327b31a/)
 * 📧 Email: anisharanjanaur2007@gmail.com
