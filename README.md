@@ -1,34 +1,34 @@
-# ʜᴇʏ 👋 ɪ'ᴍ ANISHA RANJAN
+# 👋 Hi, I'm Anisha
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5ZTlkOThmNjIyZTlkOThmNjIyZTlkOThmNjIyZTlkOThmNjIyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIY7Yc5q/giphy.gif" width="200" />
-
-### 💻 CS Student | 🛠 Developer | 🚀 Lifelong learner
-*"Error free is boring."*
+💻 Passionate Developer | 🌱 Learning Full Stack | 🚀 Building Cool Projects
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** `Java`, `JavaScript`, `HTML5`, `CSS3`
-- **Frameworks:** `React`, `Vite`
-- **Tools:** `Git`, `GitHub`, `VS Code`, `Netlify`
+## 🧠 About Me
+
+* 🎓 Student
+* 💡 Interested in Web Development & AI
+* 🔥 Currently working on: PlayiX & BotBrawl
+* 📚 Learning: DSA + Backend
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishaa-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishaa-07&layout=compact&theme=tokyonight" width="300" />
-</p>
+## 🛠️ Tech Stack
 
-### 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/anishaa-07)
-- [X / Twitter](https://twitter.com/anishaa-07)
+* 💻 Languages: JavaScript, Java
+* 🌐 Frontend: HTML, CSS, React
+* ⚙️ Backend: Node.js, Express
+* 🗄️ Database: MongoDB
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anishaa-07&color=blueviolet" alt="Profile Views" />
-</p>
+## 📈 GitHub Stats
 
+![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishaa-07\&show_icons=true\&theme=radical)
 
+---
 
+## 🔗 Connect with Me
+
+* 💼 LinkedIn:[ (add link)](https://www.linkedin.com/in/anisha-ranjan-57327b31a/)
+* 📧 Email: anisharanjanaur2007@gmail.com
