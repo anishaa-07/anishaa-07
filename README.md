@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anisha 💖
+# 👋 Hi, I'm Anisha
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Learner;Tech+Enthusiast;Building+Cool+Projects"/>
