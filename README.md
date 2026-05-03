@@ -55,13 +55,7 @@
 ---
 
 ## 🚀 Projects
-
-### 🎮 PlayiX
-
-💖 Gaming website with interactive UI
-🔗 https://github.com/anishaa-07/playix
-
-### 🤖 BotBrawl
+### 🤖 brawl.AI
 
 💖 Gaming-style web app with login + lobby system
 🔗 https://github.com/anishaa-07/brawl.AI
