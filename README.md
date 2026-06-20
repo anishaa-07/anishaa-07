@@ -12,7 +12,7 @@
 
 💻 Passionate Developer
 🌱 Currently learning Full Stack Development & DSA
-🚀 Building projects like PlayiX & BotBrawl
+🚀 Building projects like Brawl.AI
 🎯 Goal: Become a top developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=footer"/>
