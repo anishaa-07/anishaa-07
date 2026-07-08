@@ -1,119 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10B981,100:06B6D4&text=Anisha%20Ranjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Anisha%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Learning%20Full%20Stack%20Development&descAlignY=55&descSize=16" width="100%"/>
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Learning+Node.js+%2B+Express+%2B+MongoDB;Building+my+first+big+project+-+Huddle;Still+learning%2C+still+figuring+things+out" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Java+%7C+React+%7C+Node.js;AI+Powered+Projects;Always+Learning+Something+New"/>
+<br/><br/>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=10B981)
+<img src="https://komarev.com/ghpvc/?username=anishaa-07&label=Profile%20Views&color=8b5cf6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/anishaa-07?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
 
 </div>
 
-# 👋 Hello, I'm Anisha
+<br/>
 
-💻 Full Stack Developer
+## 👋 About Me
 
-🤖 AI Enthusiast
+- 🎓 B.Tech student, currently learning **backend development**
+- 🌱 Learning Node.js, Express, and MongoDB step by step
+- 🛠️ Working on my first self-planned project — **Huddle**, a team workspace app
+- 📚 Also brushing up on basics through smaller practice projects (Todo app, DevConnect)
+- 🎯 Goal: get comfortable enough to build and ship full projects on my own
 
-☕ Java Programmer
+<br/>
 
-🎓 B.Tech Computer Science Student
+## 🧰 Tech I'm Learning / Using
 
-I enjoy building clean, scalable and user-friendly web applications while continuously improving my problem-solving skills through Data Structures & Algorithms.
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-# ⚡ Tech Stack
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,postman"/>
+## 🚀 What I'm Building
 
-</p>
+**Huddle** — a project I planned myself, combining bits of GitHub + Notion + Discord into one team workspace. Still work in progress, learning as I go.
 
----
+- **Stack:** Node.js, Express, MongoDB/Mongoose, JWT, Socket.io, Cloudinary, React, Tailwind CSS
+- **What it does so far:** team & project management, task tracking (Kanban-style), real-time chat per project, file uploads
+- **Repo:** [github.com/anishaa-07](https://github.com/anishaa-07)
 
-# 🚀 Featured Projects
+Smaller practice projects I built while learning the basics:
+- **DevConnect** — a mini social app for developers (MERN basics, schema design, `populate()`)
+- **Todo App** — first project to understand REST APIs and MVC structure
 
-### 🏆 HuddleHub
-A modern real-time collaboration platform built using React, Node.js and MongoDB.
+<br/>
 
----
+## 📊 GitHub Stats
 
-### 🎬 MovieVerse
-Movie discovery platform powered by TMDB API with responsive UI.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=anishaa-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishaa-07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-### 🤖 Coco AI
-AI chatbot integrated with Google's Gemini API.
+</div>
 
----
+<br/>
 
-### 📈 HabitFlow
-Minimal habit tracker with modern UI and progress management.
+## 🎯 Currently
 
----
+```yaml
+Learning:    Backend development, REST APIs, database design
+Building:    Huddle - a team collaboration app
+Open To:     Feedback, small collabs, and internship opportunities
+```
 
-# 📊 GitHub Analytics
+<br/>
 
-<p align="center">
+## 📫 Reach Me
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anishaa-07&show_icons=true&theme=transparent"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anishaa-07&theme=transparent"/>
+<a href="mailto:anisharanjanaur2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anisha-ranjan-57327b31a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/anishaa-07"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-</p>
+</div>
 
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishaa-07&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Java
-- Backend Development
-- REST APIs
-- AI Integration
-- Cyber Security
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/anishaa-07">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anisha-ranjan-57327b31a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="anisharanjanaur2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<br/>
 
 ---
 
 <div align="center">
 
-> *"Consistency beats intensity."*
-
-⭐ Thanks for visiting my profile!
+*Still learning, still building — one project at a time.*
 
 </div>
