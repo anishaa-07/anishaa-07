@@ -1,28 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5A0,50:00D9FF,100:FFD166&text=ANISHA%20RANJAN&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20•%20JAVA%20•%20AI%20ENTHUSIAST&descAlignY=60"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=27&pause=1200&color=00F5A0&center=true&vCenter=true&width=850&lines=Building+Products+That+Matter.;React+%7C+Node.js+%7C+MongoDB.;Java+Developer.;Always+Learning.+Always+Building."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=ANISHA%20RANJAN&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20•%20Java%20•%20Full%20Stack&descSize=18&descAlignY=68&animation=fadeIn"/>
 
 <br><br>
 
+<h3>
+
+Building products with clean code, modern design & real-world impact.
+
+</h3>
+
+<p>
+
+<b>Java</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>AI</b>
+
+</p>
+
+<br>
+
 <a href="https://github.com/anishaa-07">
-<img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/anisha-ranjan-57327b31a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anisharanjanaur2007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=00F5A0)
+![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=6C63FF)
 
 </div>
 
@@ -115,22 +125,25 @@ Code • Learn • Improve
 
 ## 🚀 HuddleHub
 
-> **A real-time collaboration platform designed for teams to communicate and work together seamlessly.**
+### Real-Time Collaboration Platform
 
-### ✨ Highlights
+A modern collaboration platform designed to simplify communication, teamwork and project management inside one unified workspace.
+
+### Highlights
 
 - 🔐 Secure Authentication
 - 💬 Real-Time Messaging
 - 👥 Team Collaboration
-- 📱 Responsive Design
-- ⚡ Modern Dashboard
+- 📂 Project Management
+- 📱 Responsive UI
+- ⚡ Scalable Backend
 
 **Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="YOUR_HUDDLEHUB_REPO">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -149,64 +162,27 @@ Code • Learn • Improve
 <tr>
 <td width="50%">
 
-## 🎬 MovieVerse
+## 🤖 Brawl.AI
 
-> **A modern movie discovery platform powered by TMDB API with a sleek and responsive UI.**
+### AI Powered Battle Arena
 
-### ✨ Highlights
+A futuristic full-stack platform where intelligent AI bots battle in real time with live interactions, leaderboards and a cyber-inspired interface.
 
-- 🔎 Smart Search
-- 🎞 Trending Movies
-- ⭐ Ratings
-- ❤️ Favorites
-- 📱 Responsive Layout
+### Highlights
 
-**Tech Stack**
-
-`React` `JavaScript` `TMDB API`
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4221/4221484.png" width="170"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 Coco AI
-
-> **An AI-powered chatbot integrating Google's Gemini API for intelligent conversations and assistance.**
-
-### ✨ Highlights
-
-- 💬 AI Conversations
-- ⚡ Fast Responses
-- 🎨 Clean UI
-- 🌙 Dark Theme
-- 🔑 Gemini API Integration
+- 🤖 AI Powered Battles
+- ⚔️ Real-Time Gameplay
+- 🏆 Dynamic Leaderboards
+- 📊 Performance Tracking
+- 🌌 Modern UI
+- ⚡ Full Stack Architecture
 
 **Tech Stack**
 
-`React`
+`React` `Node.js` `Express` `MongoDB`
 
-`Gemini API`
-
-`JavaScript`
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-FFD166?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="YOUR_BRAWL_REPO">
+<img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -214,46 +190,6 @@ Code • Learn • Improve
 <td width="50%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="170"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-## 📈 HabitFlow
-
-> **A modern habit tracking application focused on consistency and productivity.**
-
-### ✨ Highlights
-
-- 📊 Progress Tracking
-- 🔥 Daily Streaks
-- 📅 Habit Management
-- 📱 Mobile Friendly
-- 🎨 Premium UI
-
-**Tech Stack**
-
-`React`
-
-`CSS`
-
-`JavaScript`
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="170"/>
 
 </td>
 </tr>
