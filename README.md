@@ -3,17 +3,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=ANISHA%20RANJAN&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20•%20Java%20•%20Full%20Stack&descSize=18&descAlignY=68&animation=fadeIn"/>
 
 <br><br>
-
-<h3>
-
+<h2>
 Building products with clean code, modern design & real-world impact.
-
-</h3>
-
+</h2>
 <p>
-
 <b>Java</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>AI</b>
-
 </p>
 
 <br>
