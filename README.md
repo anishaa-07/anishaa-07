@@ -24,7 +24,7 @@ Building products with clean code, modern design & real-world impact.
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=6C63FF)
+![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=6C63FF) 
 
 </div>
 
