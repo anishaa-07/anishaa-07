@@ -191,8 +191,6 @@ A futuristic full-stack platform where intelligent AI bots battle in real time w
 
 # 🏆 Achievements
 
-✨ Building Full Stack applications with modern technologies
-
 💻 Consistently solving Java DSA problems
 
 🚀 Developing AI-powered web applications
