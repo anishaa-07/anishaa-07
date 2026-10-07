@@ -30,7 +30,7 @@ Building products with clean code, modern design & real-world impact.
 
 ---
 
-# 👋 Hey, I'm Anisha
+# 👋 Hey, I'm Anisha Ranjan 
 
 ```java
 public class Developer {
