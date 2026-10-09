@@ -22,7 +22,7 @@ Building products with clean code, modern design & real-world impact.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<br><br>
+<br><br> 
 
 ![](https://komarev.com/ghpvc/?username=anishaa-07&style=for-the-badge&color=6C63FF) 
 
