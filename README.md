@@ -5,7 +5,7 @@
 <h2>
 Building products with clean code, modern design & real-world impact.
 </h2>
-<p>
+<p> 
 <b>Java</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>AI</b>
 </p>
 <br>
