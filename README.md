@@ -28,7 +28,7 @@ Building products with clean code, modern design & real-world impact.
 
 </div>
 
----
+--- 
 
 # 👋 Hey, I'm Anisha Ranjan
 
